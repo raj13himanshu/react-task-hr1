@@ -1,0 +1,15 @@
+.small-card--title {
+  font-size: 16px;
+  margin-right: 2rem;
+}
+
+.small-card--value {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.small-card--container {
+  /* min-width: 14.5rem; */
+  margin-left: 6.70rem;
+}
+

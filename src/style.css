@@ -1,0 +1,426 @@
+/* main codes start */
+
+.container{
+    border: 5px solid black;
+}
+
+body{
+    background-color: #c9c4b9;
+}
+
+.flex{
+  display: flex;
+}
+
+.navbar{
+font-family: sans-serif;
+width:auto;
+}
+
+.navbar-custom {
+  height: 100%;
+  background-color: #1c4461; 
+  background-image: linear-gradient(to right, #1c4461, #41696b);
+}
+
+.row{
+    border: 3px black;
+}
+.box-shadow12{
+  box-shadow: 0 4px 8px 0 rgb(170 167 167 / 30%);
+}
+
+
+
+
+
+/* main codes end */
+
+/* icon codes start */
+
+
+
+.icon{
+  height: 30px; 
+  border-radius: 70%;
+}
+
+.icon1{
+  height: 5px; 
+  border-radius: 70%;
+}
+
+
+.icon2{
+  height: 10px; 
+  border-radius: 70%;
+}
+
+.icon3{
+  height: 15px; 
+  border-radius: 70%;
+}
+
+
+.icon4{
+  height: 20px; 
+  border-radius: 70%;
+}
+
+/* icon codes end */
+
+
+/* color codes start */
+.orange{
+    background: orange;
+}
+
+.orange {
+  background: rgb(182, 128, 28);
+}
+
+.pink{
+    background: pink;
+}
+.green{
+    color: green;
+}
+
+.orn{
+    color: rgb(219, 111, 9);
+
+}
+
+.grey {
+  background-color: #2e3853;
+}
+
+.white{
+    background: white;
+}
+
+.blue{
+    background: rgb(8, 7, 53);
+}
+
+.bg-color1{
+    background: #f5f1e8;
+}
+
+.bg-color2{
+    background: #ded7cd;
+}
+
+.bg-color3{
+    background: #c4bfb3;
+}
+
+.bg-color4{
+    background: #c9c4b9;
+}
+
+.text-o {
+  color: orange;
+}
+
+.text-w {
+  color: rgb(255, 255, 255);
+}
+
+.text-g {
+  color: rgb(5, 85, 5);
+}
+
+.text-c {
+  color: #bfbfc4;
+}
+
+.bg-b {
+  background-color: #0d1228;
+}
+
+
+/* color codes End */
+
+
+
+/* box codes start*/
+
+.box2 {
+  height: 70px;
+  left: 5%;
+  padding: 2;
+  border-radius: 5%;
+   background: rgb(9, 27, 87);
+   bottom: 1%;
+   top:10%
+}
+
+.box2 {
+  width: 200px;
+  height: 70px;
+  left: 5%;
+  padding: 1;
+  border-radius: 7%;
+ background: rgb(9, 27, 87);
+  bottom: 1%;
+  top: 10%;
+}
+
+
+.box1 {
+  width: 600px;
+  height: 600px;
+  padding: 0px;
+  border: 1px;
+}
+
+
+.vl{
+border-left:  3px solid rgb(219, 111, 9);
+  position: relative; 
+}
+
+.box3 {
+  width: 230px;
+  height: 140px;
+  padding: 1;
+  border: 1px ;
+  border-radius: 5%;
+background: rgb(247, 236, 236);
+  
+}
+
+.box4{
+  width: 230px;
+  height: 90px;
+  background: rgb(247, 236, 236);
+  border-radius: 5%;
+}
+
+/* box codes end */
+
+
+/* design codes start*/
+
+
+.border5 {
+  border-radius: 1%;
+}
+.max-h-19 {
+  max-height:17rem;
+}
+
+.max-h-10 {
+  max-height: 10rem;
+}
+
+.flow-ys {
+  overflow-y: scroll;
+}
+
+.mt-8{
+  margin-top: 8px;
+}
+.mt-16{
+  margin-top: 16px;
+}
+
+.ml--60{
+margin-left: -3.5rem;
+}
+
+.btn1{
+  width: 80%; 
+  height: 40px;
+}
+
+.text-ryt1{
+text-align: right;
+}
+
+.textSpacing1{
+text-indent: 70px;
+}
+
+
+.text-font {
+  font-size: 13px;
+}
+
+
+.txt{
+  font-size: x-small;
+}
+
+.border5{
+    border-radius: 1%;
+}
+
+.design123 {
+  max-width: 920px;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+
+/* design codes end */
+
+
+/* components codes start */
+
+.big-card-container {
+  display: flex  ;
+  align-items: center;
+  padding-bottom: 20px;
+  padding-right: 8rem;
+  padding-top: 20px;
+}
+
+.student-card-container {
+  display: flex  ;
+  align-items: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 10px;
+  padding: 0.5rem;
+  padding-left: 0.3rem;
+  padding-right: 3rem;
+}
+
+
+/* components codes end */
+
+
+
+
+
+/* pencil codes start */
+
+.pencil-t {
+  border-top: 1px solid #eceae7;
+}
+
+.pencil-b {
+  border-bottom: 2px solid #d3cfc8;
+}
+
+.pencil-l {
+  border-left: 2px solid rgb(146, 97, 5);
+}
+
+.pencil-r {
+  border-right: 1px solid #eceae7;
+}
+/* pencil codes end */
+
+/* font size start */
+
+.f-6 {
+  font-size: 6px;
+}
+.f-7 {
+  font-size: 7px;
+}
+.f-8 {
+  font-size: 8px;
+}
+.f-9 {
+  font-size: 9px;
+}
+.f-10 {
+  font-size: 10px;
+}
+.f-11 {
+  font-size: 11px;
+}.f-12 {
+  font-size: 12px;
+}.f-13 {
+  font-size: 13px;
+}.f-14 {
+  font-size: 14px;
+}
+
+.f-15 {
+  font-size: 13.5px;
+}
+
+.f-16 {
+  font-size: 15px;
+}
+/* font size End */
+
+
+
+
+
+/* Responsive codes Start */
+
+@media (max-width: 767px) {
+
+  
+.navbar{
+font-family: sans-serif;
+width:auto;
+height: 50%;
+}
+.navbar-collapse{
+  height: 80%;
+  background-color: #1c4461; 
+  background-image: linear-gradient(to right, #1c4461, #41696b);
+}
+}
+
+@media (max-width: 480px) {
+
+.icon{
+  height: 10px; 
+  border-radius: 60%;
+}
+  
+.navbar{
+font-family: sans-serif;
+width:100%;
+height: 100%;
+}
+
+  .navbar-collapse{
+  height: 80%;
+  background-color: #1c4461; 
+  background-image: linear-gradient(to right, #1c4461, #41696b);
+}
+
+.flex{
+  width: 100%;
+  height:30px;
+  
+}
+}
+
+
+@media (max-width: 300px) {
+
+.flex{
+  width: 100%;
+  height:30px;
+}
+  
+.icon{
+  height: 10px; 
+  border-radius: 50%;
+  
+}
+  
+.navbar{
+font-family: sans-serif;
+width:100%;
+height: 100%;
+}
+  
+}
+
+/* Responsive code End */

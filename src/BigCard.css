@@ -1,0 +1,25 @@
+.big-card-container {
+  display: flex  ;
+  align-items: center;
+  padding-bottom: 20px;
+  padding-right: 8rem;
+  padding-top: 20px;
+ 
+}
+
+.block {
+  height: 40px;
+  width: 30px;
+  border-radius: 3px;
+  margin-left: 0.625rem;
+  margin-right: 1rem;
+}
+
+.imp-points {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.text-font {
+  font-size: 13px;
+}
